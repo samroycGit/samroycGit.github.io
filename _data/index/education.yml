@@ -1,12 +1,9 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Duke University
+  link: duke.edu
+  date: 2000 2006
+  descr: <br> (PhD in Physics)
   
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Indian Institute of Technology, Chennai
+  link: https://www.iitm.ac.in/
+  date: 1997 - 1999
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
