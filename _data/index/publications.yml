@@ -1,4 +1,4 @@
-- name: Publications
+- name: physics1
   descr: "First publication"
   image: pong.png
   github: https://github.com/renyuanz/leonids
