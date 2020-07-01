@@ -6,10 +6,10 @@
                 <h2 style="margin: 0">{{ publications.name }}</h2>
                 <p style="margin: 0">{{ publications.descr }}</p>
 
-                {% if project.github %}
+                {% if publications.github %}
                 <a href="{{ publications.github }} "><i class="fa fa-fw fa-github"></i>GitHub</a>
                 {% endif %}
-                {% if project.website %}
+                {% if publications.website %}
                 <a href="{{ publications.website }} "><i class="fa fa-fw fa-home"></i>Homepage</a>
                 {% endif %}
 
