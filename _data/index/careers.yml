@@ -1,4 +1,4 @@
-a# careers section data
+aa# careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: Xerox
   link: http://www.google.com/
@@ -8,9 +8,5 @@ a# careers section data
 - name: UML
   link: www.uml.edu
   date: May 2016 - Dec 2020
-  job: Web Assistant
+  job: Researcher
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
