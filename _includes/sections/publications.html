@@ -2,6 +2,13 @@
 
 {% for project in site.data.index.publications %}
 <div class="archive">
+  <div class="timeline" id="timeline">
+    {% for career in site.data.index.education %}
+          <div class="archive-title bio"><div class="archive-year"><strong>{{ career.date }}</strong> <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+    {% endfor %}
+  </div>
+</div>
+<div class="archive">
     <div class="row">
             <div class="col">
                 <h2 style="margin: 0">{{ publications.name }}</h2>
